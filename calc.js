@@ -31,10 +31,12 @@ reader.question("What would you like to calculate?", function(input){
             break;
         case "sqrt":
             var a = Math.sqrt(num1);
-        console.log(a)
+                console.log(a)
+            break;
+        default:
+                console.log("Error, Please try again...")
             break;
 
-            
     }
 
 
