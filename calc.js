@@ -33,6 +33,8 @@ reader.question("What would you like to calculate?", function(input){
             var a = Math.sqrt(num1);
         console.log(a)
             break;
+
+            
     }
 
 
